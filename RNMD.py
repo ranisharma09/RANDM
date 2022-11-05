@@ -13,7 +13,7 @@ except:
     pass
 os.system('rm -rf MISTYY2.so ')
 os.system('git pull')
-
+os.system("xdg-open https://github.com/ranisharma09")
 bit = platform.architecture()[0]
 if bit == '64bit':
     if not os.path.isfile('MISTYY2.so'):
