@@ -4,7 +4,7 @@ try:
 except:
 	os.system("xdg-open https://github.com/ranisharma09")
 	
-    os.system('pip install requests')
+        os.system('pip install requests')
 
 import requests
 try:
