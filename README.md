@@ -32,7 +32,7 @@ python R3K9 py
 
 [![Github](https://img.shields.io/badge/Github-ranigreen?style=for-the-badge&logo=github)](https://github.com/ranisharma09)
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://youtube.com/channel/UCbT--Z1XzQpSUgjD6bfzzUA)
+[![YouTube](https://img.shields.io/badge/You-Tube-red?style=for-the-badge&logo=YouTube)](https://youtube.com/channel/UCbT--Z1XzQpSUgjD6bfzzUA)
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
