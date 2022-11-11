@@ -14,7 +14,16 @@ python RNDM.py
 python R3K9 py
 
 
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://facebook.com/groups/477472226489156/)
+
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/ranikumari1444)
+
+[![Github](https://img.shields.io/badge/Github-ranigreen?style=for-the-badge&logo=github)](https://github.com/ranisharma09)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Red?style=for-the-badge&logo=YouTube)](https://youtube.com/channel/UCbT--Z1XzQpSUgjD6bfzzUA)
 
 
 -----------------------------------------------------------
