@@ -7,7 +7,7 @@ git clone --depth=1 https://github.com/ranisharma09/RANDM
 
 cd RANDM  
 
-python RNDM.py
+python RANi.py
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
